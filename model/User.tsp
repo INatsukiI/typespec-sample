@@ -8,4 +8,8 @@ model User {
   email: string;
 }
 
+model UsersResponse {
+  users: User[];
+}
+
 model Empty {}
