@@ -1,5 +1,3 @@
-namespace Error;
-
 @error
 model Error {
   code: string;
