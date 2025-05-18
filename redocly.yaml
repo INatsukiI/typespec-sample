@@ -3,4 +3,4 @@ extends:
 
 apis:
   main:
-    root: ./openapi/api.yaml
+    root: ./generated/openapi/api.yaml
